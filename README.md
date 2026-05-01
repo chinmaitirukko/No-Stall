@@ -1,3 +1,5 @@
+<details>
+<summary><b>Click to view</b></summary>
 <p align="center">
   <img src="./about../No Stall ! app_page-0001.jpg" width="800">
   <br>
@@ -24,3 +26,4 @@
   <img src="./about../No Stall ! app_page-0012.jpg" width="800">
   <br>
 </p>
+</details>
